@@ -1,1 +1,2 @@
 # LICENSE #
+Simple check
